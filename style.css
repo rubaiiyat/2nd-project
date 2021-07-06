@@ -21,9 +21,7 @@ ul {font-size: 10px;}
     
 }
 
-#hh{
-    font-size: 30px;
-}
+
 
 .div1{
 display: -moz-inline-stack;
@@ -109,4 +107,87 @@ a{
     padding-right: 30%;
     color: grey;
 }
+
+.abcd{
+    display: flex;
+    padding-left: 5%;
+    padding-right: 4%;
+    margin:0;
+    
+}
+
+.dab{
+    width:300px;
+    height: 250px;
+    padding-left:6%
+    
+    
+}
+
+#ef{
+    width:300px;
+    height: 250px;
+    padding-left: 16%;
+
+}
+
+#ed{
+
+    width:300px;
+    height: 250px;
+    padding-left: 17%;
+    
+
+}
+
+.af{
+    padding-left: 8%;
+    
+}
+
+.fa{
+    padding-left: 18%;
+}
+
+
+.fff{
+    box-shadow: 5px 5px 30px ;
+    padding-bottom: 10px;
+padding-top: 30px;
+padding-left:10px;
+padding-right:10px;
+padding: 30px;
+border: 1px solid;}
+
+
+
+.jjjjj{
+    display: flex;
+    
+    font-size: 25px;
+    padding-left: 20px;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-shadow: -10px -10px 5px  grey;
+    
+
+    
+    
+    
+    
+}
+
+.nnnnn{
+    padding-left: 12%;
+    margin: ;
+
+    
+}
+  
+
+
+
+    
+   
 
