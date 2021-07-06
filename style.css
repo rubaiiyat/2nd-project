@@ -7,25 +7,27 @@ body{
     color: orange;
     
 }
+.section{
+    background-image: url(images/shapes/Group\ 8448.png);
+}
 
-p{font-size: 20px;}
+#cd{font-size: 20px;}
 
 ul {font-size: 10px;}
 
 .section{
     display: flex;
-    margin-bottom: 150px;
-    background-image: url(images/shapes/Frame\ 58.jpg);
-    background-repeat: no-repeat;
+    
+    
 }
 
 .div1{
 display: -moz-inline-stack;
  width: 50%;
- padding-left: 5%;
- padding-top: 6%;
+ padding-left: 8%;
+ padding-top: 4%;
  padding-bottom: 5%;
- font-size: 25px;
+ font-size: 24px;
  color: grey;
 
  
@@ -36,18 +38,62 @@ display: -moz-inline-stack;
 a{
     text-decoration: none;
     background-image: linear-gradient(orange, #F7512C);
-    border-radius: 10% 20% ;
+    border-radius: 30% ;
     border: 50% solid;
     color: white;
-    font-weight: 500;
+    font-weight: 900;
+    font-size: 30px;
+    box-shadow: 5px 5px 10px  orange;
+    padding: 2%
+    ;
 }
 
-.img{
+.img1{
     width: 50%;
-    padding: 5% 40%% 20% 20% ;
+    padding: 0;
     
-    
-    
+}
+
+ #abir{
+    width: 90%;
+    height: 90%%;
+    padding-top: 8%;
+    padding-left: 5%;
     
 
+ }
+
+ .aa{
+     display: flex;
+
+    
+ }
+
+ #abirr{
+     width: 250px%;
+    height: 525px;
+    padding-left: 30%;
+    padding-top:16%;
+}
+
+.aa{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+.ab{
+    padding: 5%;
+    padding-left: 17%;
+    padding-top:7%;
+    
+}
+
+#abc{
+    font size: 2px;
+    color: grey;
+    
+}
+
+#ad{ color: grey;
+    font-size: 50px;
 }
