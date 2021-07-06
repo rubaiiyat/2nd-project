@@ -21,6 +21,10 @@ ul {font-size: 10px;}
     
 }
 
+#hh{
+    font-size: 30px;
+}
+
 .div1{
 display: -moz-inline-stack;
  width: 50%;
@@ -83,7 +87,7 @@ a{
 
 .ab{
     padding: 5%;
-    padding-left: 17%;
+    padding-left: 20%;
     padding-top:7%;
     
 }
@@ -97,3 +101,12 @@ a{
 #ad{ color: grey;
     font-size: 50px;
 }
+
+.Myrecipies{
+    text-align: center;
+
+    padding-left: 30%;
+    padding-right: 30%;
+    color: grey;
+}
+
